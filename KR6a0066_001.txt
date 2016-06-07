@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:30:05.113165
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:31
 #+TITLE: 魔嬈亂經
 #+PROPERTY: CBETA_ID T01n0066
 #+PROPERTY: ID KR6a0066
@@ -333,7 +333,7 @@ No. 66 [No. 26(131), No. 67]¶
 　鬼有憂慼念，
 　目連所感勤，¶
 　恐怖極恐懼，
-　忽然則不現。
+　忽然則不現。」
 #+END_VERSE
-」¶
+¶
 佛說魔嬈亂經
